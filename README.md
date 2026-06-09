@@ -55,7 +55,7 @@ That's it. No configuration files. No code. It just works.
 
 | Resource | Operations |
 |----------|------------|
-| Default | GET XML - Lines, GET JSON - Lines |
+| Default | Get xml  lines, Get json  lines |
 
 ---
 
